@@ -6,12 +6,12 @@ This is a temporary script file.
 """
 
 def HnF():
-    literatureAndCalculations = 10.
-    systemBalances = 5.0
-    elektrolyserSystemDesign = 10.
-    mechanicalComponents = 5.0
-    strorageTransportAndVariation = 5.0
-    componentInteraction = 5.0
+    literatureAndCalculations = 0.
+    systemBalances = 0.
+    elektrolyserSystemDesign = 0.
+    mechanicalComponents = 0.
+    strorageTransportAndVariation = 0.
+    componentInteraction = 0.
     
     grade = literatureAndCalculations * 0.15 + systemBalances * 0.2 + elektrolyserSystemDesign * 0.15 \
         + mechanicalComponents * 0.2 + strorageTransportAndVariation * 0.15 + componentInteraction * 0.15
