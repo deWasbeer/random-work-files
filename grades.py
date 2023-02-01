@@ -40,7 +40,7 @@ def waterworld():
     TIV = 0.
     HNF = 0.
     
-    grade = report * .1 + background * .1 * OWD * .2 + ONF * .2 + TIV * 0.2 + HNF * .2
+    grade = report * .1 + background * .1 + OWD * .2 + ONF * .2 + TIV * 0.2 + HNF * .2
     
     print('Waterworld grade: ',grade)
     
